@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Eu sou João Vinicius! 👋<br>Hi! My name is João Vinicius 👋<br><br><br>Sou desenvolvedor Front-End, porém estou em constante desenvolvimento, <br>sempre querendo e buscando crescer e me desenvolver o máximo que conseguir.:brazil: <br><br>I'm a Front-End developer, but I'm in constant development, always wanting and<br>seeking to grow and develop myself as much as possible. :united_nations:
+Olá! Eu sou João Vinicius! 👋<br>Hi! My name is João Vinicius 👋<br><br><br>Sou desenvolvedor Front-End, porém estou em constante desenvolvimento, <br>sempre querendo e buscando crescer e me desenvolver o máximo que conseguir. <br><br>I'm a Front-End developer, but I'm in constant development, always wanting and<br>seeking to grow and develop myself as much as possible.
 
 
 ## 🌐 Socials:
