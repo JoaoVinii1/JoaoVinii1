@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me/ Sobre mim:
 Olá! Eu sou João Vinicius! 👋<br>Hi! My name is João Vinicius 👋<br><br><br>Sou desenvolvedor Front-End Junior. <br>
 Estou em constante desenvolvimento, <br>sempre querendo e buscando crescer e me desenvolver o máximo possível. <br><br>I'm a Junior Front-End developer. I'm in constant development, always wanting and<br>seeking to grow and develop myself as much as possible.
 
@@ -20,3 +20,4 @@ Estou em constante desenvolvimento, <br>sempre querendo e buscando crescer e me 
 [![](https://visitcount.itsvg.in/api?id=JoaoVinii1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+	
